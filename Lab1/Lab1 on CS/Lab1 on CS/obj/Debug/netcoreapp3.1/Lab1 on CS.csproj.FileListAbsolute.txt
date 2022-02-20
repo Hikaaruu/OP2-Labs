@@ -1,0 +1,14 @@
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\bin\Debug\netcoreapp3.1\Lab1 on CS.exe
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\bin\Debug\netcoreapp3.1\Lab1 on CS.deps.json
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\bin\Debug\netcoreapp3.1\Lab1 on CS.runtimeconfig.json
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\bin\Debug\netcoreapp3.1\Lab1 on CS.runtimeconfig.dev.json
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\bin\Debug\netcoreapp3.1\Lab1 on CS.dll
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\bin\Debug\netcoreapp3.1\Lab1 on CS.pdb
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\obj\Debug\netcoreapp3.1\Lab1 on CS.csproj.AssemblyReference.cache
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\obj\Debug\netcoreapp3.1\Lab1 on CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\obj\Debug\netcoreapp3.1\Lab1 on CS.AssemblyInfoInputs.cache
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\obj\Debug\netcoreapp3.1\Lab1 on CS.AssemblyInfo.cs
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\obj\Debug\netcoreapp3.1\Lab1 on CS.csproj.CoreCompileInputs.cache
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\obj\Debug\netcoreapp3.1\Lab1 on CS.dll
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\obj\Debug\netcoreapp3.1\Lab1 on CS.pdb
+C:\OP-2 Labs\1 C#\Lab1 on CS\Lab1 on CS\obj\Debug\netcoreapp3.1\Lab1 on CS.genruntimeconfig.cache
