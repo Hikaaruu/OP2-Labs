@@ -1,0 +1,15 @@
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\bin\Debug\net6.0\Lab 1.2 on CS.exe
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\bin\Debug\net6.0\Lab 1.2 on CS.deps.json
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\bin\Debug\net6.0\Lab 1.2 on CS.runtimeconfig.json
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\bin\Debug\net6.0\Lab 1.2 on CS.dll
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\bin\Debug\net6.0\Lab 1.2 on CS.pdb
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\obj\Debug\net6.0\Lab 1.2 on CS.csproj.AssemblyReference.cache
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\obj\Debug\net6.0\Lab 1.2 on CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\obj\Debug\net6.0\Lab 1.2 on CS.AssemblyInfoInputs.cache
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\obj\Debug\net6.0\Lab 1.2 on CS.AssemblyInfo.cs
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\obj\Debug\net6.0\Lab 1.2 on CS.csproj.CoreCompileInputs.cache
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\obj\Debug\net6.0\Lab 1.2 on CS.dll
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\obj\Debug\net6.0\refint\Lab 1.2 on CS.dll
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\obj\Debug\net6.0\Lab 1.2 on CS.pdb
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\obj\Debug\net6.0\Lab 1.2 on CS.genruntimeconfig.cache
+C:\Users\FARM_KRIPOV\source\repos\Lab 1.2 on CS\Lab 1.2 on CS\obj\Debug\net6.0\ref\Lab 1.2 on CS.dll
