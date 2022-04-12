@@ -1,0 +1,15 @@
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\bin\Debug\net6.0\Lab3 on  CS.exe
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\bin\Debug\net6.0\Lab3 on  CS.deps.json
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\bin\Debug\net6.0\Lab3 on  CS.runtimeconfig.json
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\bin\Debug\net6.0\Lab3 on  CS.dll
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\bin\Debug\net6.0\Lab3 on  CS.pdb
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\obj\Debug\net6.0\Lab3 on  CS.csproj.AssemblyReference.cache
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\obj\Debug\net6.0\Lab3 on  CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\obj\Debug\net6.0\Lab3 on  CS.AssemblyInfoInputs.cache
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\obj\Debug\net6.0\Lab3 on  CS.AssemblyInfo.cs
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\obj\Debug\net6.0\Lab3 on  CS.csproj.CoreCompileInputs.cache
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\obj\Debug\net6.0\Lab3 on  CS.dll
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\obj\Debug\net6.0\refint\Lab3 on  CS.dll
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\obj\Debug\net6.0\Lab3 on  CS.pdb
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\obj\Debug\net6.0\Lab3 on  CS.genruntimeconfig.cache
+D:\Study\OP\OP-2 Labs\3\Lab3 on  CS\Lab3 on  CS\obj\Debug\net6.0\ref\Lab3 on  CS.dll
