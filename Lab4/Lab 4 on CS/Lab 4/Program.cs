@@ -18,7 +18,7 @@ namespace Lab4
 
         public double SurfaceArea()
         {
-            double angleRad = (180 / BaseSidesCount) * Math.PI / 180;
+            double angleRad = (180.0 / BaseSidesCount) * Math.PI / 180.0;
 
 
             double baseArea =
@@ -31,7 +31,7 @@ namespace Lab4
 
         public double Volume()
         {
-            double angleRad = (180 / BaseSidesCount) * Math.PI / 180;
+            double angleRad = (180.0 / BaseSidesCount) * Math.PI / 180.0;
 
             double baseArea =
                 (BaseSidesCount * Math.Pow(SideLength, 2)) / (4 * Math.Tan(angleRad));
@@ -44,11 +44,10 @@ namespace Lab4
 
     public class TPrism3 : TPrism
     {
+
         public TPrism3(double sideLength, double heigth) : base(sideLength, heigth, 3)
         {
-            Height = heigth;
-            SideLength = sideLength;
-            BaseSidesCount = 3;
+
         }
 
     }
@@ -58,9 +57,7 @@ namespace Lab4
     {
         public TPrism4(double sideLength, double heigth) : base(sideLength, heigth, 4)
         {
-            Height = heigth;
-            SideLength = sideLength;
-            BaseSidesCount = 4;
+
         }
 
     }

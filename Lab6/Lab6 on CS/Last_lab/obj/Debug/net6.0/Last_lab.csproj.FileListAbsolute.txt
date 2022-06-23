@@ -1,0 +1,15 @@
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\bin\Debug\net6.0\Last_lab.exe
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\bin\Debug\net6.0\Last_lab.deps.json
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\bin\Debug\net6.0\Last_lab.runtimeconfig.json
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\bin\Debug\net6.0\Last_lab.dll
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\bin\Debug\net6.0\Last_lab.pdb
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\obj\Debug\net6.0\Last_lab.csproj.AssemblyReference.cache
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\obj\Debug\net6.0\Last_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\obj\Debug\net6.0\Last_lab.AssemblyInfoInputs.cache
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\obj\Debug\net6.0\Last_lab.AssemblyInfo.cs
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\obj\Debug\net6.0\Last_lab.csproj.CoreCompileInputs.cache
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\obj\Debug\net6.0\Last_lab.dll
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\obj\Debug\net6.0\refint\Last_lab.dll
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\obj\Debug\net6.0\Last_lab.pdb
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\obj\Debug\net6.0\Last_lab.genruntimeconfig.cache
+C:\Users\FARM_KRIPOV\Desktop\Last_lab\Last_lab\obj\Debug\net6.0\ref\Last_lab.dll

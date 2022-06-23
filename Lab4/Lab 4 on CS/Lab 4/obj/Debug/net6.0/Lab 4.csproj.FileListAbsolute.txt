@@ -13,3 +13,18 @@ C:\Users\FARM_KRIPOV\Desktop\Lab 4\Lab 4\obj\Debug\net6.0\refint\Lab 4.dll
 C:\Users\FARM_KRIPOV\Desktop\Lab 4\Lab 4\obj\Debug\net6.0\Lab 4.pdb
 C:\Users\FARM_KRIPOV\Desktop\Lab 4\Lab 4\obj\Debug\net6.0\Lab 4.genruntimeconfig.cache
 C:\Users\FARM_KRIPOV\Desktop\Lab 4\Lab 4\obj\Debug\net6.0\ref\Lab 4.dll
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\bin\Debug\net6.0\Lab 4.exe
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\bin\Debug\net6.0\Lab 4.deps.json
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\bin\Debug\net6.0\Lab 4.runtimeconfig.json
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\bin\Debug\net6.0\Lab 4.dll
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\bin\Debug\net6.0\Lab 4.pdb
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\obj\Debug\net6.0\Lab 4.csproj.AssemblyReference.cache
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\obj\Debug\net6.0\Lab 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\obj\Debug\net6.0\Lab 4.AssemblyInfoInputs.cache
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\obj\Debug\net6.0\Lab 4.AssemblyInfo.cs
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\obj\Debug\net6.0\Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\obj\Debug\net6.0\Lab 4.dll
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\obj\Debug\net6.0\refint\Lab 4.dll
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\obj\Debug\net6.0\Lab 4.pdb
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\obj\Debug\net6.0\Lab 4.genruntimeconfig.cache
+C:\Users\FARM_KRIPOV\Documents\Repos\OP2-Labs\Lab4\Lab 4 on CS\Lab 4\obj\Debug\net6.0\ref\Lab 4.dll
